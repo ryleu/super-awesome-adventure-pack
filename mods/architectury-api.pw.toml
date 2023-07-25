@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-9.1.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Ngf8XcEu/architectury-9.1.11-fabric.jar"
+hash-format = "sha1"
+hash = "aa56a8384bb94d54e74d1996fc7b5968c1f7264f"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "Ngf8XcEu"
