@@ -1,0 +1,13 @@
+name = "ramel"
+filename = "ramel-0.1.0+mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Uw92C2y/versions/3Zq4GcTg/ramel-0.1.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "1cec6a3fb04b81530d1b3fcc54690afab41db5ae"
+
+[update]
+[update.modrinth]
+mod-id = "4Uw92C2y"
+version = "3Zq4GcTg"

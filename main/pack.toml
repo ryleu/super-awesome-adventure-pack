@@ -1,0 +1,16 @@
+name = "Super Awesome Adventure Pack"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e2e6a40d978e77806405110b7a3e0dd0766983134660730a08ebb5b2ff4ddb8"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.4"
+
+[options]
+acceptable-game-versions = ["1.20"]
