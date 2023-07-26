@@ -115,11 +115,6 @@ hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
 metafile = true
 
 [[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-hash = "b6170f6465df20ddf674b44d11a81d08d57dfa9762e9c692ffe8a554c2de59d5"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
 metafile = true
@@ -200,6 +195,11 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "009c94b9c050bc8dda2fc6d2d1cd0da749a4001859c77f13d2f0de7ede5b2ea1"
 metafile = true
@@ -217,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
 metafile = true
 
 [[files]]
