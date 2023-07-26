@@ -235,13 +235,8 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
-file = "mods/lanterns-bow.pw.toml"
-hash = "077bd2c2db737eec8e8c41b7faab34926cf96736e0d946cb4e1bb33db84857bf"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "4ba166df1b104087a30d8bf010caf65ad0b512da378bf92c0647f78212173528"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
@@ -370,11 +365,6 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
-file = "mods/statement.pw.toml"
-hash = "31afa52d66314ac693decee3539e6259eada1ee5b3cfcd57fbd72c880e0fc2b3"
-metafile = true
-
-[[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "66049d24a7a6738f349784a79dc0e6b12a82d0593ea978ef7938c787be4f44d3"
 metafile = true
@@ -412,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "606f887c9e6d41fc3ba23ad42240af40908809ee0aa954a84e28bb87a6144cd1"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
 metafile = true
 
 [[files]]
