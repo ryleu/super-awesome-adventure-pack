@@ -395,6 +395,11 @@ hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
+metafile = true
+
+[[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "f36d6e00779cb6917c59c854fc3c16d11625471d4439cd8d02fdb6e9d935a6a9"
 metafile = true
@@ -417,6 +422,16 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1817999655716ccd487c6096cea09af0d379176c73a773b3e16b33879e9f3690"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
 metafile = true
 
 [[files]]
