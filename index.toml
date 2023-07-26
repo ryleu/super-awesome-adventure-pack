@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+hash = "4ba166df1b104087a30d8bf010caf65ad0b512da378bf92c0647f78212173528"
 metafile = true
 
 [[files]]
