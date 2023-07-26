@@ -165,6 +165,11 @@ hash = "a074f256bebfbf31ca6199bade5ce351ca423bef756ad501d8069de7dd2f743a"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
 file = "mods/expanded-copper.pw.toml"
 hash = "39433c01cacdee3ed4cbe184d05e57dcd04603bf96f12334485b5f0dfd53053b"
 metafile = true
