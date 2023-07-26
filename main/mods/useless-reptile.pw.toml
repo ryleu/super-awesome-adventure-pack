@@ -1,13 +1,13 @@
 name = "Useless Reptile"
-filename = "uselessreptile-0.3.0-1.20.1.jar"
+filename = "uselessreptile-0.4.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YE4QRt8F/versions/Ufplhoav/uselessreptile-0.3.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/YE4QRt8F/versions/QlB61Pnf/uselessreptile-0.4.0-1.20.1.jar"
 hash-format = "sha1"
-hash = "c51bd4d00d4897f0b165379ce0fe82b444675a83"
+hash = "67361a43ced9a168675a37d5f38b9dda60a49933"
 
 [update]
 [update.modrinth]
 mod-id = "YE4QRt8F"
-version = "Ufplhoav"
+version = "QlB61Pnf"
