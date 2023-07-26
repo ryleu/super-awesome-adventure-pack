@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "4ba166df1b104087a30d8bf010caf65ad0b512da378bf92c0647f78212173528"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
@@ -402,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "606f887c9e6d41fc3ba23ad42240af40908809ee0aa954a84e28bb87a6144cd1"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
 metafile = true
 
 [[files]]
