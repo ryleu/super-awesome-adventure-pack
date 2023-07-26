@@ -190,11 +190,6 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "009c94b9c050bc8dda2fc6d2d1cd0da749a4001859c77f13d2f0de7ede5b2ea1"
 metafile = true
