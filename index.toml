@@ -170,6 +170,11 @@ hash = "a074f256bebfbf31ca6199bade5ce351ca423bef756ad501d8069de7dd2f743a"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "1c23a6eedc5e4f90ac97a1f27215953d7a5b23cfd52ab4b22325feeac8fe7913"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
@@ -200,6 +205,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/florcraft.pw.toml"
+hash = "e52d9cf524148b7abc3687ca48d7958004aa839548a770d948469ba313be0dd8"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -207,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "111a51a77b7013200e189d3788701e2ff268e1e973792264f2ab5be7eb1e4557"
 metafile = true
 
 [[files]]
@@ -300,6 +315,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -317,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/promenade.pw.toml"
 hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ac725b48dfd3fe576749dd141c28d2d00e931cd5a4029b1029f2e9b02029fde9"
 metafile = true
 
 [[files]]
@@ -347,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/scorched.pw.toml"
 hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
+metafile = true
+
+[[files]]
+file = "mods/sizeshiftingpotions.pw.toml"
+hash = "d5929fa968713acf8298103054a578528a8d3b36525f3edc9e44c6d2f0f0f985"
 metafile = true
 
 [[files]]
