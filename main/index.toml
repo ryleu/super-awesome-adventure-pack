@@ -75,11 +75,6 @@ hash = "bd2cab029b39f8a64e4f4b0d0b3c5b9bb6b6482e174af890be4f278cd502edc8"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "1ee4f8f755296c54434b5c4c02cbe86bfd36471e97dda15781877a88aa88be15"
 metafile = true
