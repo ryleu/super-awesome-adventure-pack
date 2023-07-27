@@ -5,6 +5,30 @@ file = "LICENSE"
 hash = "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/diamond_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/flint_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/golden_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/iron_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/netherite_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/pack.mcmeta"
+hash = "fa98f9b02dde17a72af4afbfa8d205a38e78db9c031d0bee15e595d9819fdf51"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
 metafile = true
@@ -217,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
