@@ -115,6 +115,11 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
+file = "mods/craftingpad.pw.toml"
+hash = "2d6e6d153df43efd05403dba5581d3110db58f16e021e70423eef56687e72788"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
 metafile = true
