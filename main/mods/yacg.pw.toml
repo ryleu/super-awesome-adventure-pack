@@ -1,0 +1,13 @@
+name = "Yet Another Cobblestone Generator"
+filename = "yacg-2023.7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xPsKRMUF/versions/gX5yMtYZ/yacg-2023.7.3.jar"
+hash-format = "sha1"
+hash = "ca906e8a65728fb50c3651f992c51dd2f18fac69"
+
+[update]
+[update.modrinth]
+mod-id = "xPsKRMUF"
+version = "gX5yMtYZ"
