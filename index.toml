@@ -216,6 +216,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
 metafile = true
@@ -538,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3306e7374f01d1d0f243d5a0bcaf21dd87adcaa638c056bfefcb0603910abaa5"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7abb44df595d8176b296678936304e7f6e046d704d365bf2df06b964f1a632fb"
 metafile = true
 
 [[files]]
