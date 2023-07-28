@@ -89,6 +89,10 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcra
 hash = "175ff69c8d07d04afeca7e4880aadc43fe4cbfc904d1017d55f810c403212dfb"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/erase_note_paper.json"
+hash = "2dfebd3d6a7174b9a749e25b049aca64c1272ba55aace77a4ef7a86782b3f962"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_copper_blasting.json"
 hash = "f78c1b4ee9a04785a876eb564538df4888aa78e2a18b044e5211157fb4ca4817"
 
