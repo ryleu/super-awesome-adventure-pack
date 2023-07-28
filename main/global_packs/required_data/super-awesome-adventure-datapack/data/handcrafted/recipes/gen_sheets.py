@@ -39,5 +39,5 @@ colors = [
 ]
 
 for i in colors:
-    with open(f"glow_lights_{i}.json", "w") as file:
+    with open(f"{i}_sheet.json", "w") as file:
         file.write(template.replace("color", i))
