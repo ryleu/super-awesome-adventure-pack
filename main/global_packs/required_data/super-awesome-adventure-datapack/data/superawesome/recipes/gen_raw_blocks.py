@@ -1,4 +1,7 @@
 #!/bin/env python3
+import os
+
+os.mkdir("generated")
 
 template = \
 """{
@@ -25,7 +28,7 @@ cooking_types = [
 
 for material in materials:
     for cooking_type in cooking_types:
-        with open(f"raw_{material[0]}_{cooking_type[0]}.json", "w") as file:
+        with open(f"generated/raw_{material[0]}_{cooking_type[0]}.json", "w") as file:
             file.write(template
                 .replace("MATERIAL", material[0])
                 .replace("EXPERIENCE", material[1])

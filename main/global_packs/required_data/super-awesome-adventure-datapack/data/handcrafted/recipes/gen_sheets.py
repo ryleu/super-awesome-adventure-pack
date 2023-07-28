@@ -1,4 +1,7 @@
 #!/bin/env python3
+import os
+
+os.mkdir("generated")
 
 template = \
 """{
@@ -40,5 +43,5 @@ colors = [
 ]
 
 for i in colors:
-    with open(f"{i}_sheet.json", "w") as file:
+    with open(f"generated/{i}_sheet.json", "w") as file:
         file.write(template.replace("color", i))

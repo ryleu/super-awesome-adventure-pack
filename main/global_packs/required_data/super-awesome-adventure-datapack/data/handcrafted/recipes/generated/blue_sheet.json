@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  W",
+        " W ",
+        "W  "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:blue_wool"
+        }
+    },
+    "result": {
+        "item": "handcrafted:blue_sheet",
+        "count": 8
+    }
+}
