@@ -17,7 +17,8 @@ template = \
         "item": "handcrafted:color_sheet",
         "count": 8
     }
-}"""
+}
+"""
 
 colors = [
     "red",
