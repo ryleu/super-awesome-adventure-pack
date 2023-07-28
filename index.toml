@@ -89,6 +89,30 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcra
 hash = "175ff69c8d07d04afeca7e4880aadc43fe4cbfc904d1017d55f810c403212dfb"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_copper_blasting.json"
+hash = "f78c1b4ee9a04785a876eb564538df4888aa78e2a18b044e5211157fb4ca4817"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_copper_smelting.json"
+hash = "77aa8529c9462ef0668656d407e82d6af4ad7cadad209c9c55dc951e6426214c"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_gold_blasting.json"
+hash = "b5c8a4f6592ad2cf21fe9502b16f8066b624c7c8acc510d423349e7acefa7dff"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_gold_smelting.json"
+hash = "f6294a4723846396ee32174234ab2eb31621f353ad580e0c799162de8dafe5c9"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_iron_blasting.json"
+hash = "488be6f42c3ca8c2c9f9976dfc084df4cc87d94cfe629239a8e952ddc9ff901c"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/raw_iron_smelting.json"
+hash = "e892ca67ca92b064eecb4909c14205867775ea8c7fea11e3767e0711188acc1d"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/pack.mcmeta"
 hash = "fa98f9b02dde17a72af4afbfa8d205a38e78db9c031d0bee15e595d9819fdf51"
 
