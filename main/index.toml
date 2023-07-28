@@ -90,7 +90,7 @@ hash = "30ef4f9557f0ad03c2bc0789ed6e0c1759ef6adc0257ce3352b7d288d4c6cba0"
 
 [[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/erase_note_paper.json"
-hash = "387d4537b3cd82be6590df09566bb1c717b14fa8e7cdcbfd079e9eca6cd3b377"
+hash = "0fdcccaae51b8a168cd3d096020b898e4ab3bc82f03e95aeb7f89f0e0522becf"
 
 [[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/generated/raw_copper_blasting.json"
