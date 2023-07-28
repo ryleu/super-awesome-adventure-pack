@@ -25,67 +25,67 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmers
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_black.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/black_sheet.json"
 hash = "6a7877a9b18d78141740f119db7a4b1c4517e20b967b262152994cde5ca4cb48"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_blue.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/blue_sheet.json"
 hash = "7b38538c6312b602bebb08a37c87eab1e5045de85c8dd69895dc46a794c29507"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_brown.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/brown_sheet.json"
 hash = "7b85708263c8c4f0e990ca0545b4931d044d3e91e2668012ebe82d1915201029"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_cyan.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/cyan_sheet.json"
 hash = "f78248c9a479a2200e882edd5f411855ce242853738ccb31e91e2722a8f2a724"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_gray.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/gray_sheet.json"
 hash = "94d04a766967cb03d8e577d041e31f7f3ee7c9e1868ba385f91da9943001372e"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_green.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/green_sheet.json"
 hash = "10042e389ab892fd9db89248989f78de21855038c32d0f372917145f5fb9e55f"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_light_blue.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/light_blue_sheet.json"
 hash = "f22ef3b90f98ec062cc4b9d9c31de3cf400df27556cc969853b9fd3617c174dc"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_light_gray.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/light_gray_sheet.json"
 hash = "0371b428629ba1ebb6e11e41fb67b55d3a2d9c404676e12c49f5197f9dc76213"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_lime.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/lime_sheet.json"
 hash = "3af85f2bfd71a9e7a6c505bd8d947c1b7900c77f9c0674674586b017b19719f3"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_magenta.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/magenta_sheet.json"
 hash = "875e17224a4209bef8dd1475e50d21873cedbef2e5a4b0e48f99ff32256d3c8b"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_orange.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/orange_sheet.json"
 hash = "767a2037093a21de0c79dfbaa597a9260603d503ad64879573397de5484a2c59"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_pink.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/pink_sheet.json"
 hash = "e0db068b3d5af55a65c1712d45a788a881eef378bff94f9f6a0b8499c206ea7c"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_purple.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/purple_sheet.json"
 hash = "bef415ff59eb786d7485f4e7efeb4df6fa72f9961925ffa0d56f78f9845b6132"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_red.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/red_sheet.json"
 hash = "7f6e18e1ee87044e76214b8a5c684108161a3963ea819b3a3beb61a4abfa3a72"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_white.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/white_sheet.json"
 hash = "7632eabd0dd22b4b1cf90472f2029d29446e9a29c7346818530446873b475451"
 
 [[files]]
-file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/glow_lights_yellow.json"
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/yellow_sheet.json"
 hash = "175ff69c8d07d04afeca7e4880aadc43fe4cbfc904d1017d55f810c403212dfb"
 
 [[files]]
