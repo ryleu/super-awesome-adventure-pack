@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  W",
+        " W ",
+        "W  "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:orange_wool"
+        }
+    },
+    "result": {
+        "item": "handcrafted:orange_sheet",
+        "count": 8
+    }
+}
