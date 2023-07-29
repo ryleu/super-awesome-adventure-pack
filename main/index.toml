@@ -460,6 +460,11 @@ hash = "0be48db9b36fe7146392aa6c01ab8f18ebed39ec2821f75c842cdd50be3f6479"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
+metafile = true
+
+[[files]]
 file = "mods/profundis.pw.toml"
 hash = "e19fa9a01a793865acce073b6e75b44025e42120a257ff5ceb08c25a90774838"
 metafile = true
@@ -517,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f013995011fd15f45fc2bbd28a63f70542008891a6dcfd7a955a2ab3e248460d"
 metafile = true
 
 [[files]]
