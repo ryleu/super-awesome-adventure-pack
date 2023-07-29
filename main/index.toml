@@ -610,6 +610,11 @@ hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
 metafile = true
 
 [[files]]
+file = "mods/wyd.pw.toml"
+hash = "4589dd3f10d88e0c1329801eb8e21cdc7fd6823d76ea6a9db132fee25144fd81"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "27fbebf7f801947edf142ab560dfa66212a26b663402f148e211b935efcc803e"
 metafile = true
