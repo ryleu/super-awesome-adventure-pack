@@ -125,6 +125,482 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/pack.mcmeta"
 hash = "fa98f9b02dde17a72af4afbfa8d205a38e78db9c031d0bee15e595d9819fdf51"
 
 [[files]]
+file = "global_packs/required_resources/vanilla_tweaks/LICENSE"
+hash = "83b7ebec11ba7bba810cfd246ab21489248e8e07454130dc96056962c948f022"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/Selected Packs.txt"
+hash = "efb4d1a2a4dafa7fb8a3ab2df6edeceaa2b996c52786b329a89104b575f18f0d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/big_dripleaf_full_tilt.json"
+hash = "3be10ade451b0b37abac61badc1d97fb16bdb2b630283f3252d916d50dcda7a2"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/big_dripleaf_partial_tilt.json"
+hash = "7422778aac28029ab5fd911cbb50ec20d4aa7bac148b43bd2ce07a5fbd927afb"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/campfire_off.json"
+hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/iron_bars_post_ends.json"
+hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/iron_bars_side.json"
+hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/iron_bars_side_alt.json"
+hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/small_dripleaf_bottom.json"
+hash = "de01c61bc85b6f513233bd2518b089690b41a21df6d8de37f3d837341cbeb586"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/small_dripleaf_top.json"
+hash = "1580b73ac6843c061214cc9ac88691ad489f6dcc93560fc23b5c185fdb197c85"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/soul_campfire_off.json"
+hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/template_campfire_off.json"
+hash = "83aa1f17522f7866444142f7bdfbbf9ab384c740e57c86c22c3f939fd484611f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_arrow.json"
+hash = "7b6b0d83a61906746a7660204703fa064688a46a73b4112be2607dcecb5c04f2"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_bowl.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_iron_nugget.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_music_disc.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_nether_sprouts.json"
+hash = "a2b56e5cfd7732cd0522c22ebf93a9000deb5a94a6350c841a7705016b6e510f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_nugget.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_seeds1.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/_parent_seeds2.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/acacia_button.json"
+hash = "d66f745787d7beaf347ad83dfcae1a8b660dc380f46276f470e698f73e18c62d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/arrow.json"
+hash = "ba5610bfb0efc826b51bd0c17d544b2ccca9e8d8024f020401b756194a6aad5d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/beetroot_seeds.json"
+hash = "5d01da6ed3b6bb1185246b3363e395afe7a99abe0c009290498179a961cdabcc"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/beetroot_soup.json"
+hash = "1e27faf12a644cad8151f3e93dc9239eabbbe69b754eed3103163d3d105a36a9"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/birch_button.json"
+hash = "128b6b7e9afd44cf5fd25219232ec251cdb1f4cc81b83f79b8a7ed063bfb2df0"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/black_dye.json"
+hash = "d4870ab3384cca19cbec2cfda27b5c8cadc169d7be386931045cc70caec64db6"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/blue_dye.json"
+hash = "2db33c43dabda6e771e4277a254c09f5bd57ebe1d52858f152c8f7f2ec04057c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/bowl.json"
+hash = "cabd4b0622923241665a59e77e00e952c23549556e4df14c33d21e6ad3e60dbc"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/brown_dye.json"
+hash = "7441bb190595be098c2a4471e1a0648309b59f7b3234fac6a947af00e5d9f00a"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/crimson_button.json"
+hash = "73508b74a0725f1b2302370f5f44a97bb6367a1386e2206a015c8c93c7a76a70"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/cyan_dye.json"
+hash = "bf3a84877c3f479e9b7dd523f985a919654a6aae4f8f8bd8e3a79c0d8daa11c4"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/dark_oak_button.json"
+hash = "692840903d829f9ad7d1751c718be6c0417ef62c07496a378b5f98158eddee52"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/disc_fragment_5.json"
+hash = "dcc294c90fd894efb1edef6c0d398219c4b559b52b4919739c9717f838fd35bb"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/gold_nugget.json"
+hash = "3bea3c9a02e8468850fe45ad5ed3b7584360098a754b2d0121c960c649bc8bfd"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/gray_dye.json"
+hash = "ff8ab9b93a630e89ac5af908138bf25cc293f305e33df69501a8edbfc421566f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/green_dye.json"
+hash = "de916cb4845c1a0badb6c5e6ea662fd858b96baa96518d62bed994248df662c9"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/iron_nugget.json"
+hash = "55722d909138e0bf801bc379f9be2eef609285206d900334cc2e7544dc05bfba"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/jungle_button.json"
+hash = "40d6dae031190a147d762a7e141a67e960f937727c3895fb8c96d87cc2770bbc"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/light_blue_dye.json"
+hash = "577ce047fa273bfdc1a7d4db3b79551d27589353d788f4fe85ac89e5e2d90518"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/light_gray_dye.json"
+hash = "553f4fcf2fc9e0a613c40c449e72289d9da44e0f405fc9588c2b701f059ea94f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/lime_dye.json"
+hash = "fc427dd59509bbe8b424293d268a24a18f2d8ab404fbfe4fa819eac49140c968"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/magenta_dye.json"
+hash = "1297d114ca886af14408b62b01fb38a964e34463f5e2413c3af1c6fb1cef93fe"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/melon_seeds.json"
+hash = "87ecaf70a00c9b0d64acb166566de16f9f39a6202456c2bd61689e027ccada40"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/mushroom_stew.json"
+hash = "38a15d27921049dbbd3fbf799cde04a3bb8e2406b768aec7efe96bc44e4baed5"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_11.json"
+hash = "fe5c049ec51cd49d500415839a34919ee49ca7a6287adf445b504a3fc7fdfab1"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_13.json"
+hash = "ff3cabd9bc2a7cabdbd406ace7b376b4362c03315f6c1cbe850b674c04eaa21f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_5.json"
+hash = "2272d37eddb007d1e02b64a958bd188fa33f834be10cac58b3210c11b272465f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_blocks.json"
+hash = "e81496c23992887117a2a23248543f095a14c1f557b33c569187ef828e73af56"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_cat.json"
+hash = "fb276881b07d80447f26d566f2929d10bfd92daa65b339747cc8ad9906337135"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_chirp.json"
+hash = "062c131a55538595a58ca68c8e17a2228d95ccd8fbbad939b248de5ddfe51e17"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_far.json"
+hash = "4f1c2871b9eafac97c1a867353f7bde8614d253a7f93f2704383b8f371bf4320"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_mall.json"
+hash = "0d74aef32b85be5f37a602f0602caf79d602e4d4dcf287f5f11be5443eee9ebb"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_mellohi.json"
+hash = "35216eb034ee6ceee706a6c517302dab24b767c0f677ab5de7c9115bd1eec98d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_otherside.json"
+hash = "4b6f08126d4d127dbf515e188ff3151d87c462c0187ff55d82058886f58422cd"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_pigstep.json"
+hash = "d900d43ecb667a2a72457bdb94430d4482ce5eb1f3c023be053bce5492503ff8"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_stal.json"
+hash = "191b8c4206442013f30e2a9b6e49a878a675b58a1aeb5587b5a3552904983538"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_strad.json"
+hash = "3098a1935a0a18067907198646b3ca42d531080700e01d35922f15ed1d0d81e3"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_wait.json"
+hash = "90d65c181934c6e47710c1dff89d115a5dac93afd824b3a179bb52db3f349117"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/music_disc_ward.json"
+hash = "308943a6b1397bf12a05ea686c4848bd8e2d812aaf13c62a4938df8a424c0cef"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/nether_sprouts.json"
+hash = "7168c91536922140ea317e431038862211933f6f9c81cbb2081ebcae4029934b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/nether_wart.json"
+hash = "cd819efce2d1b3d055a1c8bf42471d30a9f38a19ef2df9b1cba41741f451db3b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/oak_button.json"
+hash = "0619a16f3393296580406b7eb848adc5a4a2712ffc52a5633f3ee2b14c6770ab"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/orange_dye.json"
+hash = "81fa47006b29a54654ea02c2efa8fbb3565f6b1bf3f0eec3000825a3e9d3269c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/pink_dye.json"
+hash = "c8043157ab524ae0df4c7ba97513388f6696f583f56bcd1d0e6f93c9a9cfb4eb"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/polished_blackstone_button.json"
+hash = "4f0c17ab35209b5e96025aa181368c4a75c8642c6d6869a0da8262084e636707"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/pumpkin_seeds.json"
+hash = "90e301c95cb313009230202dc2ab7cc2704c6ca9627f3318938354e746c76767"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/purple_dye.json"
+hash = "4fe130c08034829826525bcb863b4cd53c44a6472ec5fc42aa07614435198a9a"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/rabbit_stew.json"
+hash = "3b2b46d74b9c926246d7fd612e5f7946a05e61e2cef7d40f2a206dfd11d5e528"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/red_dye.json"
+hash = "0f2effd43aebbfbe408acd5a40270d98efd8bbf971e44f96844459850ccebbd9"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/scute.json"
+hash = "0ff298a7cc07cf5d06bd6453896d25546de0ac829cc8c156c47e39d2cca0a41b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/slime_ball.json"
+hash = "580b141e7bf99715be6340bf217e491224eb472af22fdee991ed19dd202be838"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/spectral_arrow.json"
+hash = "1a850d1fdeca34e4a26c0ddd58426d74377ccc0f4e89eaf9347e74ea9ed66415"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/spruce_button.json"
+hash = "925e528d731cbfb0da26f73ffed49b577314120c2e9413d292aea26064caf0c5"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/stone_button.json"
+hash = "9d9c1b0e346164fdec578cc8ac857586ac08ddb7a75c4e6ca91715a1664199ed"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/sunflower.json"
+hash = "8d494941d37202d99fb8276de3c252397752dbeede4d463a0571d7738067da5f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/suspicious_stew.json"
+hash = "28b99a8679bb24950ca1ad68c9969406caef05e1a8e714d8864ab6f75d11fd8f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/tipped_arrow.json"
+hash = "2b04f2aa3783ed0a2adcda045b97dcc64c6fea92487eb70bdf670d7933c56466"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/warped_button.json"
+hash = "93e1491b6b63588bb53068969c04b96c68c2950849d5c4fc6f40d8a3758f30e1"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/wheat_seeds.json"
+hash = "fbbee09a71b05fa0d6a551e3c81d99adef278e878b3b158ae28623c5a4bf6bbd"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/white_dye.json"
+hash = "f88eb95c3c196bf0e944c1e0d1399a09de808fa20d257825f2e3a6bb6742780c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/yellow_dye.json"
+hash = "698d057ad439b74ed3a0c4e23d5639d713b5cbadd9110b19434db943ba12c71c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/acacia_leaves.png"
+hash = "c6390a288c4b590ce75c2f2d8c22047e5428b8911cfba2f49e677e5e670a9b85"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/azalea_leaves.png"
+hash = "f67ee96cbd2274bce5b25efe9003157b6117fcca0c3fa3e58103fd3008692c93"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/big_dripleaf_stem_full_tilt.png"
+hash = "a4e710278d638189da1b0d531277b99d8b224d0bc2342f6aaa6ee99a5e2e7c8d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/big_dripleaf_stem_partial_tilt.png"
+hash = "5d88d86c7f1774ce81c5a81827d6b8d8d02aedcb2a4a5718966e50816b9eac23"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/birch_leaves.png"
+hash = "84744b437f10e03b8963efee3d5bcfe46e14a017c5da7a02708f9f54a85fe69b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/cactus_bottom.png"
+hash = "125d5b8da35d51ce6b45d3757fdc7615d514414a8577990da48185a090a1a24e"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/cherry_leaves.png"
+hash = "dedc3c032753dce7980a636400636a2cf128b3439c06bd7b4229a56b2eade673"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dark_oak_leaves.png"
+hash = "ee905c039a112a0cdda0a92308a841d6475daa910fe5a8c583cb01d051216fa5"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/flowering_azalea_leaves.png"
+hash = "2d3df5e2e99ac56baf32afd3cfa1372c069f8ed2e9c7b9df139e43c81a0d462c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/jungle_leaves.png"
+hash = "68a0c35db7800ff1b9a94b5b567951c446404dda1842d76f23e944ed033ae621"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/mangrove_leaves.png"
+hash = "13dc88e2dd4bf9c2fbfd83d93692ea564aed1b92d1dccedfabcb981d8739a617"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/oak_leaves.png"
+hash = "a388d89b84107acc9654c1f28d36e3dbe04d4245edab6cb16bdaa60373d1340d"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_top.png"
+hash = "8929b8464ef265936fc9647cf913cd831c655aada098f87092e65051a9909135"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/redstone_dust_line0.png"
+hash = "3af96885b45ce300261b4591f7aedc09e3e14f46a0c1d152da34691e7438ddac"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/redstone_dust_line1.png"
+hash = "0c54680f4e3f057c19cc88e003fe1183146ff001ff93715c2d5da335bc7ccebc"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/spruce_leaves.png"
+hash = "05b1b69f24354cab1025da77f8f16abc20e5dd1991705345bb86db32dddbd67b"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/blaze.png"
+hash = "153bbc1df6bb4e00c13747440dc95f60bf1c3420d52710d736cdf8c9dda1888e"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/acacia.png"
+hash = "023c403253022be51988bdfee9219b3d0646c8ce5c41586bed867c85a88293b8"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/bamboo.png"
+hash = "88fe0a896c22fa7c762d82d50f361a8b0c3365ad606f91b1d36ffae3e442d0a1"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/birch.png"
+hash = "a1608fd10142ef38f23d45285cf6d56b7f972478ca4b59995b20533374d04c00"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/cherry.png"
+hash = "8def8e814c9befb6f8544f30ebc3cc7b59203ac6204cdc9b37c3124bf61819d7"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/crimson.png"
+hash = "a9e878ee0862e1ac782c3f5bf36d7487ce228347f1cb4ee207e03ee4990b2b86"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/dark_oak.png"
+hash = "8616b35a592a1f7f1663dd4a40b55bee2f80aef6f5ed937d63db1a8ddc228302"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/jungle.png"
+hash = "dcf104dcf09c7431bdcf37f54a2e1e610ae71502cf27ec544a1c5f974f2de5bd"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/mangrove.png"
+hash = "fceee3af0a19ab07716d125472e908c6e7a2c99f5dd38c55918cbd807ae9f5ac"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/oak.png"
+hash = "d414c742565bde9d7e326935feb650d90fb5a1325a974e2c11ce9a7c3517f7ac"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/spruce.png"
+hash = "09507172c32b25a87b75047c1c2f8e90292c684b84b91faafef67636926c512e"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/warped.png"
+hash = "ce8e80917738c6c22858aff547786056b583105616c776dc396254357e2e9cc9"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "c47c21946c9d4670b770cd1a5cb1c6e3da1f9cf4504f288ba789a2c41fd302bf"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/icons.png"
+hash = "3cc46526dee5bed3ca60c1fbc9f8b58ec60b72c006dab6f3a919cf0ea9cda312"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "1c24d56cb88dd799ca0a6ca60953d8b778537881cd2b6ae37afeb19f455f93a2"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/hoe.png"
+hash = "aa82263a2b39bf4ce20df4418b2c2026afa5b2337141255bba836647e233ce0e"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/iron_hoe.png"
+hash = "dcc874d79f395b2e21805a33c1ce037f9596cb3935ae42baa970b0ffc1dba05f"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/rabbit_stew.png"
+hash = "a2ae15be2aaff5703fe12059622dbfb78aa881a2a63e160bc837a9957091b4c5"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/stone_hoe.png"
+hash = "04ce5364b2484f732752cae168268234ed3188d92c2ff20f2a36f976088fd51c"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/wooden_hoe.png"
+hash = "229fdbe0830c283d001ef4b95d4b6f9cba30c87a4913ee59055955c2d87c90fc"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/pack.mcmeta"
+hash = "9c229e3b56e40fd42f0784b5881bea81a16cdc3fac8ee326d412111124573e92"
+
+[[files]]
+file = "global_packs/required_resources/vanilla_tweaks/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
 metafile = true
