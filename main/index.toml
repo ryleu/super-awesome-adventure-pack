@@ -781,6 +781,11 @@ hash = "a074f256bebfbf31ca6199bade5ce351ca423bef756ad501d8069de7dd2f743a"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "1c23a6eedc5e4f90ac97a1f27215953d7a5b23cfd52ab4b22325feeac8fe7913"
 metafile = true
@@ -838,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "009c94b9c050bc8dda2fc6d2d1cd0da749a4001859c77f13d2f0de7ede5b2ea1"
-metafile = true
-
-[[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "5371608c7ff5c525daa5dd6ca42d29d3d9637be6bb6d1e15be4fe10183b6dfa8"
 metafile = true
 
 [[files]]
@@ -968,11 +968,6 @@ metafile = true
 [[files]]
 file = "mods/ramel.pw.toml"
 hash = "2fe09871fdb571f813d45e2f230c017ea03b2ec80f4c7420b58f2bdb9f0cd5fa"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
 metafile = true
 
 [[files]]
