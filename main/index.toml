@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "serializationisbad.pw.toml"
-hash = "547f6116f97d48dfa2005721b28e34f801e0752a7142b651d695891f446c8e93"
+hash = "5aa71681cf74fde1b222e4af6419ed1589f4b6f8ca8bf328ec07a2265da23fd8"
 metafile = true
 
 [[files]]
