@@ -1116,6 +1116,11 @@ hash = "520b41b0363f81c1a05cc9c82d0bea03024f20d605db99653031028940558758"
 metafile = true
 
 [[files]]
+file = "serializationisbad.pw.toml"
+hash = "547f6116f97d48dfa2005721b28e34f801e0752a7142b651d695891f446c8e93"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
 hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
 metafile = true
