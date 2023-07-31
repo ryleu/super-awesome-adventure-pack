@@ -89,6 +89,10 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcra
 hash = "30ef4f9557f0ad03c2bc0789ed6e0c1759ef6adc0257ce3352b7d288d4c6cba0"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/asphalt.json"
+hash = "1d22efccac176c4d71487e7c5df766b966f38ffcf5d744ad0fb51953a5fc6a2e"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/cobblestone_to_pebbles.json"
 hash = "3f8c6949fff4f2d3df9b4e77e689cd3952a616bde80b071476d4929feba48260"
 
