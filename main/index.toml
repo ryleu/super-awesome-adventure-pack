@@ -125,6 +125,10 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/superaw
 hash = "e892ca67ca92b064eecb4909c14205867775ea8c7fea11e3767e0711188acc1d"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/steel_block_blasting.json"
+hash = "896dc1dbd7cc7c22d5ce326ff09f97f6104dffa7929fb9f1f88be4ce6b23d3a5"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/pack.mcmeta"
 hash = "fa98f9b02dde17a72af4afbfa8d205a38e78db9c031d0bee15e595d9819fdf51"
 
