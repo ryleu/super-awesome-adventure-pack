@@ -1,24 +1,28 @@
 #!/bin/env python3
 import os
 
-os.mkdir("generated")
+try:
+    os.mkdir("generated")
+except FileExistsError:
+    pass
 
 template = \
 """{
     "type": "minecraft:COOKINGTYPE",
     "ingredient": {
-        "item": "minecraft:raw_MATERIAL_block"
+        "item": "NAMESPACE:raw_MATERIAL_block"
     },
-    "result": "minecraft:MATERIAL_block",
+    "result": "NAMESPACE:MATERIAL_block",
     "experience": EXPERIENCE,
     "cookingtime": COOKINGTIME
 }
 """
 
 materials = [
-   ("copper", "6.3"),
-    ("iron", "6.3"),
-    ("gold", "9")
+   ("minecraft", "copper", "6.3"),
+    ("minecraft", "iron", "6.3"),
+    ("minecraft", "gold", "9"),
+    ("ad_astra", "desh", "6.3")
 ]
 
 cooking_types = [
@@ -28,10 +32,11 @@ cooking_types = [
 
 for material in materials:
     for cooking_type in cooking_types:
-        with open(f"generated/raw_{material[0]}_{cooking_type[0]}.json", "w") as file:
+        with open(f"generated/raw_{material[1]}_{cooking_type[0]}.json", "w") as file:
             file.write(template
-                .replace("MATERIAL", material[0])
-                .replace("EXPERIENCE", material[1])
+                .replace("NAMESPACE", material[0])
+                .replace("MATERIAL", material[1])
+                .replace("EXPERIENCE", material[2])
                 .replace("COOKINGTYPE", cooking_type[0])
                 .replace("COOKINGTIME", cooking_type[1])
             )

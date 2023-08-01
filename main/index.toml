@@ -109,6 +109,14 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/superaw
 hash = "77aa8529c9462ef0668656d407e82d6af4ad7cadad209c9c55dc951e6426214c"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/generated/raw_desh_blasting.json"
+hash = "6cdb21b2824b30883fd54d46ee7b1a0ab6ce0f39be151b24fbd7d4a45cd44166"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/generated/raw_desh_smelting.json"
+hash = "613a10c3b0fb72550304bff8e98028abfa7267d602ac0ff1a06aede5ad7cd876"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/generated/raw_gold_blasting.json"
 hash = "b5c8a4f6592ad2cf21fe9502b16f8066b624c7c8acc510d423349e7acefa7dff"
 
