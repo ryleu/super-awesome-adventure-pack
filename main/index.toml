@@ -1032,11 +1032,6 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "f013995011fd15f45fc2bbd28a63f70542008891a6dcfd7a955a2ab3e248460d"
-metafile = true
-
-[[files]]
 file = "mods/spirit-walker.pw.toml"
 hash = "6f3215f8931d5cceedd1664d1b77fc10b8a3b1a1c03fc5fd80fabf901578b8eb"
 metafile = true
