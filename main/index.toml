@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
 
 [[files]]
+file = "config/commandaliases/t.json"
+hash = "fe4d4d445ffb23d3ad3dc99e5f5e68af398011ea141dd57bfd88c7efad32cfbd"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmersdelight/weapon_attributes/diamond_knife.json"
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
@@ -734,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
+metafile = true
+
+[[files]]
+file = "mods/commandaliases.pw.toml"
+hash = "a2b51afdbe0583fa3f7678e0337ff548f951d41fa6929d3d4d46784f5b43354e"
 metafile = true
 
 [[files]]
