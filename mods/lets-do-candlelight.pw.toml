@@ -1,13 +1,13 @@
 name = "Let's Do: Candlelight"
-filename = "letsdo-candlelight-fabric-1.2.1-hotfix.jar"
+filename = "letsdo-candlelight-fabric-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mPND0Adp/versions/jNHQJRo3/letsdo-candlelight-fabric-1.2.1-hotfix.jar"
+url = "https://cdn.modrinth.com/data/mPND0Adp/versions/2qXRHbEH/letsdo-candlelight-fabric-1.2.2.jar"
 hash-format = "sha1"
-hash = "e59381cda0a69a0860cb5920388860b4a3136560"
+hash = "47cda214364bb5f217e2c60cb636fe3481ff383d"
 
 [update]
 [update.modrinth]
 mod-id = "mPND0Adp"
-version = "jNHQJRo3"
+version = "2qXRHbEH"
