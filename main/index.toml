@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compressed-blocks.pw.toml"
-hash = "5101fe60799dc55ad5e106d8bf7ff43fc8f0edebdf1a266ec6bb20b2b1e9a6f5"
+hash = "0233a207d3b34e7aee1552a0d69eb669b0527816017f337e29c44216122c285c"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
+hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "1ee4f8f755296c54434b5c4c02cbe86bfd36471e97dda15781877a88aa88be15"
+hash = "e291de29548596119100097a03c0a7ad5adf241c6094b54ae5a5993cb20a92a9"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
+hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "69c8135494c09b0cb9acf3bd90dd11268d0a5f611ebacda1ec16870e01fca566"
+hash = "b3e79e2fe3e8f1c3a63adfcb1afc05264150c348bf3861321bd7a04cc49f060b"
 metafile = true
 
 [[files]]
@@ -812,12 +812,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "a074f256bebfbf31ca6199bade5ce351ca423bef756ad501d8069de7dd2f743a"
+hash = "079d76b04a42bf272ccef2eb8f4eaedb2452276f492f1b0aaff6bb2b96ba2dcc"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
+hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
-hash = "111a51a77b7013200e189d3788701e2ff268e1e973792264f2ab5be7eb1e4557"
+hash = "2ff8134ac11e60f75e4f0ab86691ba4daff34a33f716c585e664e646a731798e"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "5daa97b25782bc64c5b8ab634918bd97139321161a0b77202634254e3b4bae9e"
+hash = "1ceb90d97999fbf67ad855ee6c1b7c5b4ebdffc010db436e7d6163008274e251"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/profundis.pw.toml"
-hash = "e19fa9a01a793865acce073b6e75b44025e42120a257ff5ceb08c25a90774838"
+hash = "403dbb0b85984151c1e61aae50bafbcd9e0993e4f1d22abcd6e0c4c06f71f057"
 metafile = true
 
 [[files]]
@@ -992,17 +992,17 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ac725b48dfd3fe576749dd141c28d2d00e931cd5a4029b1029f2e9b02029fde9"
+hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
 metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "452ca2001268ffa43daeaf1cfdf7af549ca71eea9bab2f55928e8a31d8da179e"
+hash = "c9ab1c8312aa08fa20a31e4d1c41243eb410eab824bc1b90197b8d6b44fce964"
 metafile = true
 
 [[files]]
@@ -1092,12 +1092,12 @@ metafile = true
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "f36d6e00779cb6917c59c854fc3c16d11625471d4439cd8d02fdb6e9d935a6a9"
+hash = "7be827bb0b36bebe5350537f32c756be9857b478f03d1e95a389566ed5d6e7e5"
 metafile = true
 
 [[files]]
 file = "mods/victus.pw.toml"
-hash = "84ce93bdbac310b01857b9853c68126912343eb72d38e788e2b64fad99bb2a1a"
+hash = "4761a66be90dec5fc332af683cc32c6b7178074dc464c71a57133316e731e90d"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/wyd.pw.toml"
-hash = "4589dd3f10d88e0c1329801eb8e21cdc7fd6823d76ea6a9db132fee25144fd81"
+hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
 metafile = true
 
 [[files]]
@@ -1142,12 +1142,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
 
 [[files]]
 file = "resourcepacks/better-archeology-(1.20-update).pw.toml"
-hash = "520b41b0363f81c1a05cc9c82d0bea03024f20d605db99653031028940558758"
+hash = "b81e5e0a4de9b64d90329a27b52d04a3984c555f7f06da4ab8ae4c8f4c036ff6"
 metafile = true
 
 [[files]]
