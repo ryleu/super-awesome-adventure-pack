@@ -29,6 +29,10 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/farmers
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/grapplemod/recipes/repeller.json"
+hash = "2f9c802001a9918064687511ec3d8022c577d2f8977a953112174a12a26059e8"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcrafted/recipes/black_sheet.json"
 hash = "eaa32bf10ca85fd57c858f52e742ad8c430227632b116fba54607d5494e12a8a"
 
@@ -93,6 +97,14 @@ file = "global_packs/required_data/super-awesome-adventure-datapack/data/handcra
 hash = "30ef4f9557f0ad03c2bc0789ed6e0c1759ef6adc0257ce3352b7d288d4c6cba0"
 
 [[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/minecraft/tags/functions/load.json"
+hash = "a63f8a4f9cbc376ec544ecf3f61df80306624b4080767c4ef617f4209fbc1b54"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/load.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/asphalt.json"
 hash = "1d22efccac176c4d71487e7c5df766b966f38ffcf5d744ad0fb51953a5fc6a2e"
 
@@ -139,6 +151,10 @@ hash = "e892ca67ca92b064eecb4909c14205867775ea8c7fea11e3767e0711188acc1d"
 [[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/recipes/steel_block_blasting.json"
 hash = "896dc1dbd7cc7c22d5ce326ff09f97f6104dffa7929fb9f1f88be4ce6b23d3a5"
+
+[[files]]
+file = "global_packs/required_data/super-awesome-adventure-datapack/data/superawesome/tick.mcfunction"
+hash = "0603310d1199b6cca8a3eaf4fd457f7182b9381d473e6d14205e5794603a4211"
 
 [[files]]
 file = "global_packs/required_data/super-awesome-adventure-datapack/pack.mcmeta"
