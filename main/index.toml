@@ -1022,6 +1022,11 @@ hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
 file = "mods/ramel.pw.toml"
 hash = "2fe09871fdb571f813d45e2f230c017ea03b2ec80f4c7420b58f2bdb9f0cd5fa"
 metafile = true
@@ -1143,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
 metafile = true
 
 [[files]]
