@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "ad_astra:raw_desh_block"
+    },
+    "result": "ad_astra:desh_block",
+    "experience": 6.3,
+    "cookingtime": 200
+}

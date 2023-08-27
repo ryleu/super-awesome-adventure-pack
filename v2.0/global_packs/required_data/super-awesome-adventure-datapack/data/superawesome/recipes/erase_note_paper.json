@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    	{
+    		"item": "candlelight:note_paper_written"
+    	}
+    ],
+    "result": {
+        "item": "candlelight:note_paper_writeable",
+        "count": 1
+    }
+}

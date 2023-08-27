@@ -1,0 +1,13 @@
+name = "Plushie-Mod"
+filename = "plushie-mod-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsOK0gUP/versions/vtGxmITE/plushie-mod-1.2.1.jar"
+hash-format = "sha1"
+hash = "5d355b677fbb86ad845262d1a9b5547df25108e6"
+
+[update]
+[update.modrinth]
+mod-id = "hsOK0gUP"
+version = "vtGxmITE"
