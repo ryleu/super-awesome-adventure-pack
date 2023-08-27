@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:iron_block"
+    },
+    "result": "ad_astra:steel_block",
+    "experience": 3,
+    "cookingtime": 100
+}

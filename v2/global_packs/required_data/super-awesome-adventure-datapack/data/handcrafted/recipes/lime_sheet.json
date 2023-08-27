@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  W",
+        " W ",
+        "W  "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:lime_wool"
+        }
+    },
+    "result": {
+        "item": "handcrafted:lime_sheet",
+        "count": 8
+    }
+}
